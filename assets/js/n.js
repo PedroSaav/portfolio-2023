@@ -1,4 +1,4 @@
-var fetch_url = 'https://api.github.com/users/Bryan-Herrera-Dev/repos?per_page=60';
+var fetch_url = 'https://github.com/PedroSaav';
 let repos;
 window.onload = function () {
 var project_sec = document.querySelector('#nuevo_proyectos');
