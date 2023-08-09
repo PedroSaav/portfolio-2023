@@ -61,3 +61,27 @@
     animation: textGradientAnimation 5s ease-in-out infinite;
     -webkit-animation: textGradientAnimation 5s ease-in-out infinite;
 }
+
+.Name{
+    background: radial-gradient(circle at 70%,#0c0fcc 10%,#849bda 30%);
+    background-size: 400% 400%;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+    animation: textGradientAnimation 5s ease-in-out infinite;
+    -webkit-animation: textGradientAnimation 5s ease-in-out infinite;
+}
+
+.Ape{
+    background: radial-gradient(circle at 70%,#a2a4f7 10%,#095e69 30%);
+    background-size: 400% 400%;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+    animation: textGradientAnimation 5s ease-in-out infinite;
+    -webkit-animation: textGradientAnimation 5s ease-in-out infinite;
+}
